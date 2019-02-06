@@ -1,7 +1,7 @@
 <?php 
 
 $user = "bd_test";
-$password = "12";
+$password = "T9s7Y9j6";
 
 try {
 
